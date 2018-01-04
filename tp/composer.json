@@ -24,11 +24,12 @@
         "kiddyu/beanbun-parser": "^0.0.1",
         "monolog/monolog": "^1.17",
         "components/jquery": "2.*",
-        "17734027950/yang":"1.0.*"
+        "17734027950/yang":"1.0.2"
     },
     "autoload": {
         "psr-4": {
-            "app\\": "application"
+            "app\\": "application",
+            "Yangchi\\":"Yangchi/src/qrcode"
         }
     },
     "extra": {

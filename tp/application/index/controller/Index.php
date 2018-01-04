@@ -29,6 +29,9 @@ use Yang\Pinyinhan; // Yangchi 的类
 use Yang\HttpCurl; // Yangchi 的类
 use Stoneworld\Wechat\Server; // 微信企业号类
 
+/** 二维码  */
+use Yangchi\qrcode;
+
 class Index
 {
 	/**
@@ -37,6 +40,10 @@ class Index
 	 */
 	public function index()
 	{
+	    $qrcode = new qrcode();
+	  	$res = $qrcode->showqrcode();
+	  	print_r($res);  
+
 		// return url('index/index/file');
 	}
 
