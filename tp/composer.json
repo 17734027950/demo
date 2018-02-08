@@ -17,14 +17,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "topthink/framework": "5.0.*",
-        "overtrue/pinyin": "~3.0",
-        "nesbot/carbon": "^1.22",
-        "kiddyu/beanbun": "^1.0",
-        "kiddyu/beanbun-parser": "^0.0.1",
-        "monolog/monolog": "^1.17",
-        "components/jquery": "2.*",
-        "17734027950/yang":"1.0.*"
+        "topthink/framework": "5.0.*"
     },
     "autoload": {
         "psr-4": {
@@ -35,6 +28,16 @@
         "think-path": "thinkphp"
     },
     "config": {
-        "preferred-install": "dist"
-    }
+        "preferred-install": "dist",
+        "secure-http": false
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packagist.phpcomposer.com"
+        },
+        {
+            "packagist": false
+        }
+    ]
 }
