@@ -6,3 +6,5 @@
 [2018-03-15 07:15:31] name.ERROR: Bar [] []
 [2018-03-15 07:15:33] name.WARNING: Foo [] []
 [2018-03-15 07:15:33] name.ERROR: Bar [] []
+[2018-03-15 07:41:52] name.WARNING: Foo [] []
+[2018-03-15 07:41:52] name.ERROR: Bar [] []
