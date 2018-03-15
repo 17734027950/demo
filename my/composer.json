@@ -8,7 +8,8 @@
         "smarty/smarty": "~3.1",
         "rmccue/requests": ">=1.0",
         "masterminds/html5": "2.*",
-        "cebe/markdown": "~1.1.1"
+        "cebe/markdown": "~1.1.1",
+        "mpdf/mpdf":"7.*"
     },
     "autoload": {
 
