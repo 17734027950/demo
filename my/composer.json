@@ -12,7 +12,8 @@
         "mpdf/mpdf":"7.*",
         "setasign/fpdf": "1.8.1",
         "fluent/logger": "v1.0.0",
-        "nategood/httpful": "*"
+        "nategood/httpful": "*",
+        "tecnickcom/tcpdf":"*"
     },
     "autoload": {
 
