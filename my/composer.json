@@ -13,7 +13,8 @@
         "setasign/fpdf": "1.8.1",
         "fluent/logger": "v1.0.0",
         "nategood/httpful": "*",
-        "tecnickcom/tcpdf":"*"
+        "tecnickcom/tcpdf":"*",
+        "gabrielgil/timthumb": "2.*"
     },
     "autoload": {
 
