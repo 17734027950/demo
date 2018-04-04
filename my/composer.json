@@ -14,7 +14,10 @@
         "fluent/logger": "v1.0.0",
         "nategood/httpful": "*",
         "tecnickcom/tcpdf":"*",
-        "gabrielgil/timthumb": "2.*"
+        "gabrielgil/timthumb": "2.*",
+        "guzzlehttp/guzzle": "6.*",
+        "ramsey/uuid":"3.*",
+        "doctrine/orm": "2.5.*"
     },
     "autoload": {
 
