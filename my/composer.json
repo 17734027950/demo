@@ -11,13 +11,16 @@
         "cebe/markdown": "~1.1.1",
         "mpdf/mpdf":"7.*",
         "setasign/fpdf": "1.8.1",
+        "mpdf/mpdf":"7.*",
         "fluent/logger": "v1.0.0",
         "nategood/httpful": "*",
         "tecnickcom/tcpdf":"*",
         "gabrielgil/timthumb": "2.*",
         "guzzlehttp/guzzle": "6.*",
         "ramsey/uuid":"3.*",
-        "doctrine/orm": "2.5.*"
+        "doctrine/orm": "2.5.*",
+        "phpoffice/phpword": "v0.14.*",
+        "php-console/php-console": "^3.1"
     },
     "autoload": {
 
