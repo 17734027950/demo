@@ -24,7 +24,14 @@
         "php-console/php-console": "^3.1",
 
         "vlucas/valitron":"*",
-        "sinergi/browser-detector":"6.*"
+        "sinergi/browser-detector":"6.*",
+
+        "bjeavons/zxcvbn-php": "^0.3",
+
+        "moneyphp/money":"*",
+
+        "league/climate":"*",
+        "league/fractal":"*"
 
     },
     "autoload": {
