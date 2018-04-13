@@ -23,7 +23,11 @@
         "phpoffice/phpword": "v0.14.*",
         "php-console/php-console": "^3.1",
 
-        "vlucas/valitron":"*"
+        "namshi/notificator": "1.0.*",
+
+        "flexihash/flexihash": "^2.0.0",
+
+        "webmozart/assert":"*"
 
     },
     "autoload": {

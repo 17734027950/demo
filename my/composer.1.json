@@ -12,6 +12,8 @@
         "fluent/logger": "v1.0.0",
         "nategood/httpful": "*",
 
+        
+        "mpdf/mpdf":"7.*",
         "setasign/fpdf": "1.8.1",
         "mpdf/mpdf":"7.*",
         "tecnickcom/tcpdf":"*",
@@ -23,7 +25,8 @@
         "phpoffice/phpword": "v0.14.*",
         "php-console/php-console": "^3.1",
 
-        "vlucas/valitron":"*"
+        
+        "sebastian/money": "1.6.2" 
 
     },
     "autoload": {
