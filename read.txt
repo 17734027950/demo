@@ -1,0 +1,53 @@
+{
+    "require": {
+        "php": "^5.5.9 || ^7.0",
+        "psr/log": "^1.0.1",
+        "twig/twig": "1.*",
+        "filp/whoops" : "2.1.*",
+        "monolog/monolog": "1.*",
+        "smarty/smarty": "~3.1",
+        "rmccue/requests": ">=1.0",
+        "masterminds/html5": "2.*",
+        "cebe/markdown": "~1.1.1",
+        "fluent/logger": "v1.0.0",
+        "nategood/httpful": "*",
+
+        "setasign/fpdf": "1.8.1",
+        "mpdf/mpdf":"7.*",
+        "tecnickcom/tcpdf":"*",
+
+        "gabrielgil/timthumb": "2.*",
+        "guzzlehttp/guzzle": "6.*",
+        "ramsey/uuid":"3.*",
+        "doctrine/orm": "2.5.*",
+        "phpoffice/phpword": "v0.14.*",
+        "php-console/php-console": "^3.1",
+
+        "vlucas/valitron":"*",
+        "sinergi/browser-detector":"6.*",
+
+        "bjeavons/zxcvbn-php": "^0.3",
+
+        "moneyphp/money":"*",
+
+        "league/climate":"*",
+        "league/fractal":"*"
+
+    },
+    "autoload": {
+
+    },
+    "config": {
+        "preferred-install": "dist",
+        "secure-http": false
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packagist.phpcomposer.com"
+        },
+        {
+            "packagist": false
+        }
+    ]
+}
