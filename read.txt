@@ -12,6 +12,8 @@
         "fluent/logger": "v1.0.0",
         "nategood/httpful": "*",
 
+
+        PDF 处理
         "setasign/fpdf": "1.8.1",
         "mpdf/mpdf":"7.*",
         "tecnickcom/tcpdf":"*",
@@ -31,7 +33,9 @@
         "moneyphp/money":"*",
 
         "league/climate":"*",
-        "league/fractal":"*"
+        "league/fractal":"*",
+
+        "league/color-extractor":"*"          提取某张图片的颜色行
 
     },
     "autoload": {

@@ -31,7 +31,8 @@
         "moneyphp/money":"*",
 
         "league/climate":"*",
-        "league/fractal":"*"
+        "league/fractal":"*",
+        "league/color-extractor":"*"
 
     },
     "autoload": {
