@@ -34,7 +34,9 @@
         "league/fractal":"*",
         "league/color-extractor":"*",
 
-        "endroid/qrcode":"2.*"
+        "endroid/qrcode":"2.*",
+
+        "yurunsoft/yurun-oauth-login": "1.*"
 
     },
     "autoload": {
