@@ -32,7 +32,9 @@
 
         "league/climate":"*",
         "league/fractal":"*",
-        "league/color-extractor":"*"
+        "league/color-extractor":"*",
+
+        "endroid/qrcode":"2.*"
 
     },
     "autoload": {
