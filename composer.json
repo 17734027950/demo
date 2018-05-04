@@ -36,7 +36,9 @@
 
         "endroid/qrcode":"2.*",
 
-        "yurunsoft/yurun-oauth-login": "1.*"
+        "yurunsoft/yurun-oauth-login": "1.*",
+
+        "scolib/bankcard":"*"
 
     },
     "autoload": {
