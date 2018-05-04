@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__."/../vendor/autoload.php";
 
-$cardNo = '6222020200068206016';
+$cardNo = '6210676802054750345';
 $bankcard = new Sco\Bankcard\Bankcard();
 //$bankcard = new Sco\Bankcard\Bankcard(new Sco\Bankcard\Providers\RegexProvider());
 

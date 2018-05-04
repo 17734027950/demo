@@ -38,7 +38,9 @@
 
         "yurunsoft/yurun-oauth-login": "1.*",
 
-        "scolib/bankcard":"*"
+        "scolib/bankcard":"*",
+
+        "nesbot/carbon":"*"
 
     },
     "autoload": {

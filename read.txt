@@ -42,7 +42,9 @@
 
         "yurunsoft/yurun-oauth-login": "1.*",   三方登录（QQ、微信）
 
-        "scolib/bankcard":"*"                   根据银行卡号识别所属银行以及卡类型
+        "scolib/bankcard":"*",                   根据银行卡号识别所属银行以及卡类型
+
+        "nesbot/carbon":"*"，                  时间格式化
 
     },
     "autoload": {
