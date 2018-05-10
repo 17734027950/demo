@@ -40,7 +40,9 @@
 
         "scolib/bankcard":"*",
 
-        "nesbot/carbon":"*"
+        "nesbot/carbon":"*",
+
+        "mthenw/nosqlite": "*@stable"
 
     },
     "autoload": {

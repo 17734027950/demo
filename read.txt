@@ -44,7 +44,9 @@
 
         "scolib/bankcard":"*",                   根据银行卡号识别所属银行以及卡类型
 
-        "nesbot/carbon":"*"，                  时间格式化
+        "nesbot/carbon":"*",                     时间格式化
+
+        "mthenw/nosqlite": "*@stable",           Sqlite3 数据库数据管理
 
     },
     "autoload": {
