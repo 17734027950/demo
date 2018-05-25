@@ -48,6 +48,8 @@
 
         "mthenw/nosqlite": "*@stable",           Sqlite3 数据库数据管理
 
+        "sokil/php-mongo":"*",                   MangoDB
+
     },
     "autoload": {
 

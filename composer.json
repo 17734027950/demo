@@ -42,7 +42,9 @@
 
         "nesbot/carbon":"*",
 
-        "mthenw/nosqlite": "*@stable"
+        "mthenw/nosqlite": "*@stable",
+
+        "sokil/php-mongo":"*"
 
     },
     "autoload": {
