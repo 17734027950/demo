@@ -44,7 +44,11 @@
 
         "mthenw/nosqlite": "*@stable",
 
-        "sokil/php-mongo":"*"
+        "sokil/php-mongo":"*",
+
+        "fabpot/goutte":"*",
+
+        "fzaninotto/faker":"*"
 
     },
     "autoload": {
