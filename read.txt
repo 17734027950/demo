@@ -50,6 +50,9 @@
 
         "sokil/php-mongo":"*",                   MangoDB
 
+
+        "php-ai/php-ml":"0.4"                    机器学习
+
     },
     "autoload": {
 
