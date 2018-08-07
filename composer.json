@@ -52,7 +52,13 @@
 
         "phpmailer/phpmailer": "~6.0",
 
-        "php-ai/php-ml":"0.4"
+        "php-ai/php-ml":"0.4",
+        "hidehalo/emoji":"*",
+        "dsgygb/text2pic":"*",
+        "gregwar/captcha": "1.*",
+        "stil/gd-text":"*",
+        "aliyuncs/oss-sdk-php": "~2.0",
+        "sebastian/version":"*"
 
     },
     "autoload": {
